@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ankdatafactory111"
+		},
+		"AzureDataLakeStorage1_LS_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_LS_properties_typeProperties_url": {
+			"value": "https://adl2232.dfs.core.windows.net/"
+		}
+	}
+}
