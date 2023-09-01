@@ -1,0 +1,9 @@
+{
+	"name": "ankdatafactory111",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7456ccd7-9b7d-4391-a32e-d985942e6daa",
+		"tenantId": "0dff1788-1747-4e82-80ad-3aae4a5e9fd5"
+	}
+}
